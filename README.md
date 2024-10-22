@@ -42,7 +42,7 @@ js-crud-app/
 ### Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/js-crud-app.git
+   git clone https://github.com/leomaxuz/js-crud-app.git
    cd js-crud-app
    ```
 
